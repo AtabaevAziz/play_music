@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">Playing Audio</string>
+    <string name="app_name">Play Music</string>
+    <string name="track_title_we_will_rock_you">We Will Rock You</string>
+    <string name="track_title_stuff">Stuff Demo Track</string>
+    <string name="track_artist_queen">Queen</string>
+    <string name="track_artist_demo">Local Demo</string>
+    <string name="track_album_greatest_hits">Greatest Hits</string>
+    <string name="track_album_local_library">Local Library</string>
+    <string name="volume_label">Volume</string>
+    <string name="default_time">0:00</string>
+    <string name="default_track_index">Track 1 of 2</string>
+    <string name="error_audio_init">Unable to initialize audio playback.</string>
+    <string name="error_audio_manager">Volume controls are unavailable on this device.</string>
+    <string name="cd_artwork">Track artwork</string>
+    <string name="cd_restart">Previous track</string>
+    <string name="cd_play_pause">Play or pause track</string>
+    <string name="cd_skip_end">Next track</string>
 </resources>
